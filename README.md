@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Artificial Intelligence at FPT University
 - 💞️ I’m looking to collaborate on None
 - 📫 How to reach me:
--      Facebook: https://www.facebook.com/nguyentrongnguyen.profile
+-      Facebook: https://www.facebook.com/nguyennguyen.fpt
 -      Zalo: 0843040804
 -      Gmail: nguyentrongnguyen.profile@gmail.com
 -  
